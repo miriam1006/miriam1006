@@ -44,7 +44,7 @@ Backend especializado para logística de pequeña escala desarrollado con NestJS
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [https://www.linkedin.com/in/miriam-garc%C3%ADa-16953a292/]
+- **LinkedIn:** [https://www.linkedin.com/in/miriam-garc%C3%ADa100625/]
 - **Email:** miriam100625@gmail.com
 
 *"Apasionada por el código y el aprendizaje continuo."*
