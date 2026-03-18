@@ -1,3 +1,62 @@
+# Hi, I'm Miriam García 👋
+[🇺🇸 English](#english) | [🇲🇽 Español](#español)
+---
+<a name="english"></a>
+## 🇺🇸 English
+
+Software Developer focused on Backend, Automation and Applied AI. 🚀
+
+I build scalable systems and automated solutions that help businesses 
+save time and reduce manual work. I have experience with enterprise 
+APIs, ERP systems, mobile apps and AI agents.
+
+### 🛠️ Tech Stack
+
+**Backend & AI (Main Focus)**
+- Languages: Node.js (TypeScript), Python
+- Frameworks: NestJS, Fastify
+- AI: OpenAI API, Prompt Engineering, Autonomous Agents
+- Databases: PostgreSQL, MongoDB, Supabase
+- Tools: Docker, JWT, Git
+
+**Frontend & Mobile**
+- Vue 3, Ionic, React, Capacitor
+- HTML, CSS, Tailwind CSS
+
+### 💼 Experience
+
+**Full Stack Developer Intern** | Clever Cloud | 2025 – 2026
+- Built inventory and sales modules for an enterprise ERP
+- Developed hybrid mobile apps (Android/iOS) with Ionic + TypeScript
+- Designed and consumed REST APIs with modular architecture
+
+### 🤖 Featured Projects
+
+**AI Logistics Agent** — Python & GPT-4o
+> Intelligent agent that automates daily shipment tracking for 
+> e-commerce. Transforms raw carrier data into business reports 
+> using OpenAI API.
+
+**RealTime Chat Platform** — NestJS & MongoDB
+> Full Stack messaging platform with WebSockets, JWT auth and 
+> real-time notifications. Live demo available.
+
+**Inventory Core API** — NestJS & PostgreSQL
+> Enterprise REST API with clean architecture, RBAC roles 
+> and Docker deployment.
+
+**Ferro-Logística** — Python & Supabase
+> Automation system for e-commerce logistics. Reduced shipping 
+> label generation time by 80%.
+
+### 📫 Contact
+- 📧 miriam100625@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/miriam-garcía100625/)
+- 💬 I communicate through written messages in English or Spanish.
+
+---
+<a name="español"></a>
+## 🇲🇽 Español
 # 👋 ¡Hola! Soy Miriam García
 
 **Desarrolladora de Software con enfoque en Backend, Automatización e IA Aplicada.** 🚀
